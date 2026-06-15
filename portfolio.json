@@ -1,0 +1,165 @@
+[
+  {
+    "title": "Mainframe",
+    "description": "MainFrames invites you to meet Floppy and to browse a clever and charming platformer that plays out entirely within the windows and desktop of a PC monitor.",
+    "category": "Game Project",
+    "images": [
+      "images/projects/Mainframes/MF_keyart_400.png",
+      "images/projects/Mainframes/Hero_animation300.gif",
+      "images/projects/Mainframes/FX_Explode300.gif",
+      "images/projects/Mainframes/MainFrames_screenshot_3.jpg",
+      "images/projects/Mainframes/MainFrames_02.jpg",
+      "images/projects/Mainframes/ss_88e06c39e28a85910e946302b47deb74000143ae.1920x1080.jpg",
+      "images/projects/Mainframes/Folder_01_com.gif",
+      "images/projects/Mainframes/Folder_02_com.gif",
+      "images/projects/Mainframes/Folder_03_com.gif"
+    ],
+    "tags": ["Art Direction", "Background", "Animation", "Unity", "Pixelart", "VFX"],
+    "links": [
+      { "name": "Play", "url": "https://store.steampowered.com/app/1521360/MainFrames" },
+      { "name": "Trailer", "url": "https://www.youtube.com/watch?v=LydX0_TtoWs" }
+    ]
+  },
+  
+  {
+    "title": "198X",
+    "description": "Passion fulled project by Hi-Bit Studios. Experience multiple game tributes into a story driven adventure.",
+    "category": "Game Project",
+    "images": [
+       "images/projects/198X/BeatEmUp_Screenshot.png",
+       "images/projects/198X/198X_KID_Sheet_compactX2.gif",
+       "images/projects/198X/198X_enemies_Sheet2X.gif",
+       "images/projects/198X/198X_cinematic_boomrang2X.gif",
+       "images/projects/198X/198X_ShadowRun2X.gif"
+
+    ],
+    "tags": ["Art Direction", "Character Design", "Background", "Animation", "VFX", "Unity", "UI / UX"],
+    "links": [
+      { "name": "Play", "url": "https://store.steampowered.com/app/1086010/198X/" }
+    ]
+  },
+    {
+    "title": "MotionTwin",
+    "description": "10 years as Associate at Motion Twin. Quite an adventure in which I was able to expend my skills in nearly all Game Dev fields : Art, Animation, Background, Game Design and also the Business that led me to devlop business models, Mange huge lively community as well as working in a cooperative environement. ",
+    "category": "Game Dev",
+    "images": [
+       "images/projects/Motiontwin/arkadeo_preview.png",
+       "images/projects/Motiontwin/arkadeo_1.jpg",
+       "images/projects/Motiontwin/arkadeo_2.png",
+       "images/projects/Motiontwin/arkadeo_3.png",
+       "images/projects/Motiontwin/arkadeo_4.jpg",
+       "images/projects/Motiontwin/arkadeo_5.png",
+       "images/projects/Motiontwin/kadokado_preview.png",
+       "images/projects/Motiontwin/kk_1.png",
+       "images/projects/Motiontwin/kk_2.png",
+       "images/projects/Motiontwin/kk_3.png",
+       "images/projects/Motiontwin/kk_4.png",
+       "images/projects/Motiontwin/kk_5.png",
+       "images/projects/Motiontwin/kk_6.png",
+       "images/projects/Motiontwin/kk_7.png",
+       "images/projects/Motiontwin/kk_8.png",
+       "images/projects/Motiontwin/kk_9.png",
+       "images/projects/Motiontwin/kk_10.png"
+    ],
+    "tags": ["Game Design", "Game Dev", "Art Direction", "Multiplayer", "UI / UX"],
+    "links": [
+      { "name": "Motion Twin", "url": "https://motiontwin.com/" },
+      { "name": "Web Games Archives", "url": "https://github.com/motion-twin/WebGamesArchives" }
+    ]
+  },
+  {
+    "title": "The Escapist 2",
+    "description": "Designing Items, Props, Tiles and UI element for The Escapist 2 by Team17. The challenge here was to mass produce asets while maintenaing the exiostingthe art dircetion established by the porevious entry while upgrading it.",
+    "category": "Props",
+    "images": [
+      "images/projects/Ecscapist/Cover.png",
+      "images/projects/Ecscapist/Batch_1.png",
+      "images/projects/Ecscapist/Batch_2.png",
+      "images/projects/Ecscapist/Batch_3_ITEMS.png",
+      "images/projects/Ecscapist/Batch_4_ITEMS.png",
+      "images/projects/Ecscapist/Batch_5_ITEMS.png",
+      "images/projects/Ecscapist/Batch_6_ITEMS.png"
+    ],
+    "tags": ["Pixelart", "Props", "UI / UX", "Tiles"],
+    "links": [
+      { "name": "Play", "url": "https://store.steampowered.com/app/641990/The_Escapists_2/" }
+    ]
+  },
+  {
+    "title": "Stormgate - Frost Giant",
+    "description": "Creating animated Pixelart for Stormgate launch.",
+    "category": "Art",
+    "images": [
+      "images/projects/Frostgiant/Stormgate_SaberTank_400.gif",
+      "images/projects/Frostgiant/frostgiant_bluesky1001.gif"
+    ],
+    "tags": ["Pixelart", "Animation"],
+    "links": [
+      { "name": "Play", "url": "https://store.steampowered.com/app/2012510/Stormgate/" }
+    ]
+  },
+  {
+    "title": "Max Reload and The Nether Blasters",
+    "description": "Creation multiple animations for this movie.",
+    "category": "Cinema",
+    "images": [
+       "images/projects/Maxreloaded/Max.gif",
+       "images/projects/Maxreloaded/Cover.jpg",
+       "images/projects/Maxreloaded/CharaDesign_AlexisMorille2.png"
+    ],
+    "tags": ["Animation","Pixelart","Movie"],
+    "links": [
+      { "name": "Trailer", "url": "www.youtube.com/watch?v=tT_bY4m8gR4" }
+    ]
+  },
+  {
+    "title": "Ubisoft Steam Publisher Takeover",
+    "description": "Experimental layered input system for chaotic gameplay.",
+    "category": "Pixelart",
+    "images": [
+       "images/projects/ubisoft/Ubisoft_takeover_Hk_200.gif",
+       "images/projects/ubisoft/ubi2024.png",
+       "images/projects/ubisoft/Sledge_400.gif",
+       "images/projects/ubisoft/Evor_400.gif",
+       "images/projects/ubisoft/John_400.gif",
+       "images/projects/ubisoft/Kassandra_400.gif",
+       "images/projects/ubisoft/theDiv.gif",
+       "images/projects/ubisoft/RR_400.gif"
+    ],
+    "tags": ["Pixelart", "Marketing", "keyart", "Animation"],
+    "links": [
+      { "name": "Steam Publisher Sale 2024", "url": "https://store.steampowered.com/sale/UbisoftPublisherSale2024?l=french" }
+
+    ]
+  },
+  {
+    "title": "Ubisoft Steam Winter Sale",
+    "description": "Experimental layered input system for chaotic gameplay.",
+    "category": "Pixelart",
+    "images": [
+       "images/projects/ubisoft/Ubiwinter2024.png",
+       "images/projects/ubisoft/Ubisale2024_1.png",
+       "images/projects/ubisoft/Ubisale2024_2.png",
+       "images/projects/ubisoft/Ubisale2024_3.png"
+    ],
+    "tags": ["Pixelart", "Marketing", "keyart", "Tiles"],
+    "links": [
+      { "name": "Ubisoft Steam Winter 2024", "url": "https://store.steampowered.com/developer/ubisoft/sale/ubisoftwinter24" }
+    ]
+  },
+  {
+    "title": "Ubisoft Steam Spring Sale",
+    "description": "Experimental layered input system for chaotic gameplay.",
+    "category": "Pixelart",
+    "images": [
+       "images/projects/ubisoft/UbiSpring2026.png",
+       "images/projects/ubisoft/Ubi2026.png"
+    ],
+    "tags": ["Pixelart", "Marketing", "keyart"],
+    "links": [
+      { "name": "Spring 2026", "url": "https://store.steampowered.com/curator/33075774/sale/ubisoftspring26" }
+    ]
+  }
+
+
+]
