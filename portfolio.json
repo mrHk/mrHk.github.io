@@ -38,8 +38,26 @@
       { "name": "Play", "url": "https://store.steampowered.com/app/1086010/198X/" }
     ]
   },
+  {
+    "title": "The Escapist 2",
+    "description": "Designing Items, Props, Tiles and UI element for The Escapist 2 by Team17. The challenge here was to mass produce asets while maintenaing the exiostingthe art dircetion established by the porevious entry while upgrading it.",
+    "category": "Props",
+    "images": [
+      "images/projects/Ecscapist/Cover.png",
+      "images/projects/Ecscapist/Batch_1.png",
+      "images/projects/Ecscapist/Batch_2.png",
+      "images/projects/Ecscapist/Batch_3_ITEMS.png",
+      "images/projects/Ecscapist/Batch_4_ITEMS.png",
+      "images/projects/Ecscapist/Batch_5_ITEMS.png",
+      "images/projects/Ecscapist/Batch_6_ITEMS.png"
+    ],
+    "tags": ["Pixelart", "Props", "UI / UX", "Tiles"],
+    "links": [
+      { "name": "Play", "url": "https://store.steampowered.com/app/641990/The_Escapists_2/" }
+    ]
+  },
     {
-    "title": "MotionTwin",
+    "title": "Motion Twin",
     "description": "10 years as Associate at Motion Twin. Quite an adventure in which I was able to expend my skills in nearly all Game Dev fields : Art, Animation, Background, Game Design and also the Business that led me to devlop business models, Mange huge lively community as well as working in a cooperative environement. ",
     "category": "Game Dev",
     "images": [
@@ -65,24 +83,6 @@
     "links": [
       { "name": "Motion Twin", "url": "https://motiontwin.com/" },
       { "name": "Web Games Archives", "url": "https://github.com/motion-twin/WebGamesArchives" }
-    ]
-  },
-  {
-    "title": "The Escapist 2",
-    "description": "Designing Items, Props, Tiles and UI element for The Escapist 2 by Team17. The challenge here was to mass produce asets while maintenaing the exiostingthe art dircetion established by the porevious entry while upgrading it.",
-    "category": "Props",
-    "images": [
-      "images/projects/Ecscapist/Cover.png",
-      "images/projects/Ecscapist/Batch_1.png",
-      "images/projects/Ecscapist/Batch_2.png",
-      "images/projects/Ecscapist/Batch_3_ITEMS.png",
-      "images/projects/Ecscapist/Batch_4_ITEMS.png",
-      "images/projects/Ecscapist/Batch_5_ITEMS.png",
-      "images/projects/Ecscapist/Batch_6_ITEMS.png"
-    ],
-    "tags": ["Pixelart", "Props", "UI / UX", "Tiles"],
-    "links": [
-      { "name": "Play", "url": "https://store.steampowered.com/app/641990/The_Escapists_2/" }
     ]
   },
   {
